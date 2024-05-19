@@ -36,6 +36,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
         * HASONEVALUE()
         * SWITCH() function to create conditional measure.
         * Used DATE FUNCTION & MONTH FUNCTION for creating **calculated columns**.
+        * SELECTEDVALUE()
   
 *  Created dynamic calculated column to give YTD/YTG based on the last sales date.   
 * Using Bookmarks to switch between two visuals
