@@ -48,6 +48,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 * Dynamic titles based on the applied filters.
 * Using KPI indicators
 * Conditional formatting the values in visuals using icons or background color
+* Using Fields parameters. Fields Parameters allows users to choose which column to use to slice and dice values in a Power BI visual. 
 * Data validation techniques
 * PowerBi services
 * Publishing reports to PowerBi services
