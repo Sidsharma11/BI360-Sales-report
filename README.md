@@ -1,4 +1,4 @@
-# ATLIQ HARDWARE SALES REP0RT
+# BI 360---ATLIQ HARDWARE SALES REP0RT
 Live Report Link:https://app.powerbi.com/groups/me/reports/5363c89e-3140-422f-ba29-e67684c0aef0/fc9c2f0e40aa0907c1c0?experience=power-bi
 ## Project overview
 AtliQ Hardware has experienced rapid growth in recent years and has decided to implement data analytics using PowerBI for the first time. 
