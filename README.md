@@ -129,4 +129,9 @@ Understanding what data is available will be more helpful while doing analysis. 
   * Post_invoice_deductions
  *Post invoice deductions and other deductions details
 ## Importing data into PowerBi
-As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
+As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential.
+
+## Data Model
+![Screenshot 2024-05-28 120506](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/79bca9f1-066e-490f-8efa-6532cb16fb70)
+
+
